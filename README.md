@@ -14,6 +14,6 @@ Project Members;
   
 	Ceren AŞKİT - 21732838
   
-	Ali Gürcan BAKİ-21732895
+	Ali Gürcan BAKİ - 21732895
   
 	İrem BAKIR - 21732881
