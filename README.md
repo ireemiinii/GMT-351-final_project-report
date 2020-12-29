@@ -12,8 +12,8 @@ Tools we can use are Python, PostgreSQL, NoSQL.
 
 Project Members;
   
-	Ceren Aşkit - 21732838
+	Ceren AŞKİT - 21732838
   
-	Ali Gürcan Baki -21732895
+	Ali Gürcan BAKİ-21732895
   
-	İrem Bakır - 21732881
+	İrem BAKIR - 21732881
